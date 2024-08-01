@@ -2,9 +2,9 @@
 ↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 This is the original source code to the bio site https://tepa.lol.
-This is the original, anyone claiming to be the original, please contact me @ ".tepa" on discord.
+I do not care if anyone is claiming to be the owner of this code anymore.
 If there is anything missing from the scripts or css, it is found in the index.html file.
-Make sure to send me what you create!
+Do not send me anything you create. 
 
 The code is a bit ugly, but you should be able to navigate fine if you know what you are doing.
 
